@@ -1,0 +1,15 @@
+{
+  "name": "roblock.js",
+  "version": "1.0.0",
+  "description": "A node.js wrapper that allows you to use various ROBLOX API actions in node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ProgrammerColton [programmercolton@gmail.com]",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "semistandard": "^12.0.1"
+  }
+}
